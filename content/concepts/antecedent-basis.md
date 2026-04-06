@@ -3,7 +3,7 @@ type: concept
 title: Antecedent Basis（前提基礎）
 aliases: [前提基礎, antecedent support]
 tags: [claim-deficiency, claim-drafting, 112]
-source_count: 1
+source_count: 2
 ---
 
 # Antecedent Basis（前提基礎）
@@ -29,14 +29,23 @@ Antecedent basis 是指請求項中每個以定冠詞（"the" 或 "said"）引�
    - 請求項中描述的結構應在圖式中有對應的顯示
    - 機械發明尤其需要注意此點
 
+### "A" vs "The" / "Said" 的規則（Landis §2.13）
+
+- 元素**第一次引入**時用不定冠詞 "**a**" 或 "**an**"
+- 後續**再次引用**時用定冠詞 "**the**" 或 "**said**"
+- 使用 "the" 或 "said" 而無前置的 "a/an" 引入 → **缺乏前提基礎（lack of antecedent basis）** → §112 不確定性核駁
+- 在 comprising 請求項中，"a" 意指「**一個或多個**」，不僅是「一個」——這具有重要的專利範圍意義
+
 ### 常見錯誤
 
 - 在附屬項中引用母項未引入的元素
 - 使用含糊的引用（如 "the element"），但請求項中有多個可能的指涉對象
 - 術語不一致：請求項中用 "the fastener" 引用先前引入的 "a bolt"
+- 直接寫 "said motor"（或 "the motor"）而從未以 "a motor" 引入
 
 ## 來源參照
 - [[sheldon-ch6-claim-drafting]]：§6.6.3 詳述三個層面的前提基礎要求
+- [[landis-ch02-claim-forms-formats]]：§2.13 以判例深入分析 "a" vs "the"/"said" 的用法——包括 "a" 在 comprising 請求項中代表「一個或多個」、缺乏前提基礎的不確定性核駁
 
 ## 相關概念
 - [[claim-body]]：antecedent basis 規則主要適用於 body 中的元素引用

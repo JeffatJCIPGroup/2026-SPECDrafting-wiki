@@ -6,6 +6,7 @@
 
 - [[sheldon-ch6-claim-drafting]] — Sheldon 教科書第六章：Claim Drafting 完整指南（形式、類型、策略、缺陷）
 - [[sheldon-ch7-specification-drafting]] — Sheldon 教科書第七章：說明書撰寫（§112 三大要求 + 各節實務撰寫指南）
+- [[landis-ch02-claim-forms-formats]] — Landis（Faber）第二章：請求項形式與語言規則（大量 Federal Circuit 判例分析）
 
 ## 概念
 
@@ -23,6 +24,7 @@
 - [[best-mode]] — 最佳模式要求：揭露申請日當時發明人主觀最佳實施方式的 14 條指引
 - [[utility]] — 實用性要求（§101）：specific、substantial、credible 三個面向
 - [[specification-structure]] — 說明書各節結構與撰寫要點（Title 到 Abstract）
+- [[whereby-wherein-clauses]] — Whereby/Wherein/Thereby 子句的法律效果與正確用法
 
 ## 實體
 

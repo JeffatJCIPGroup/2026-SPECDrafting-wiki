@@ -3,7 +3,7 @@ type: concept
 title: Preamble（請求項前言）
 aliases: [前言, 請求項前言, claim preamble]
 tags: [claim-structure, claim-drafting]
-source_count: 1
+source_count: 2
 ---
 
 # Preamble（請求項前言）
@@ -47,6 +47,7 @@ Federal Circuit 提出的判斷指引：
 
 ## 來源參照
 - [[sheldon-ch6-claim-drafting]]：§6.3.3 完整說明 preamble 的形式、範圍限制效果與實務建議
+- [[landis-ch02-claim-forms-formats]]：§2.4 以大量 Federal Circuit 判例深入分析 preamble 的範圍限制——*Catalina* 五指標、preamble 中工作件（workpiece）的處理、dependent claim 的 preamble 縮短原則
 
 ## 相關概念
 - [[transition]]：preamble 之後的過渡語

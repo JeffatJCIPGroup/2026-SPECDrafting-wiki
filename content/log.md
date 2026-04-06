@@ -19,6 +19,14 @@
 - **更新頁面**：[[statute-35usc112]]（新增 CH7 來源參照）, index.md
 - **備註**：CH7 涵蓋 §112 三大說明書要求（written description、enablement、best mode）及 utility 要求（§101），並提供說明書各節（Title → Abstract）的完整實務撰寫指南。關鍵洞見：說明書是「銷售文件」，避免使用 "the invention"，以 Theme 方法組織全文。
 
+## [2026-04-07] ingest | Landis（Faber）CH2 — Claim Forms and Formats in General
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap02-Claim Forms and Formats in General.pdf`
+- **作者**：Robert C. Faber（*Landis on Mechanics of Patent Claim Drafting*, 8th ed., 2023）
+- **新增頁面**：[[landis-ch02-claim-forms-formats]], [[whereby-wherein-clauses]]
+- **更新頁面**：[[preamble]]（source_count 1→2，新增 Catalina 五指標來源參照）、[[transition]]（source_count 1→2，新增 comprising 細節與 "having" 爭議）、[[antecedent-basis]]（source_count 1→2，新增 "a" vs "the"/"said" §2.13 分析）、index.md
+- **備註**：本章（130 頁掃描版 PDF）以大量 Federal Circuit 判例為基礎，涵蓋 §2.1–§2.26：preamble 範圍限制（Catalina 五指標）、transition 精確法律效果（comprising 不等於完全開放）、"a" vs "the" 前提基礎、whereby/wherein 子句、數值範圍、Festo prosecution history estoppel 等。關鍵洞見：Faber 直言「use comprising, no other word works as well」，以及 "a" 在 comprising 請求項中代表「一個或多個」。
+
 ## [2026-04-06] ingest | Sheldon CH6 — Claim Drafting
 
 - **來源**：`RAW/Sheldon/Sheldon-CH6_Claim Drafting.docx`
