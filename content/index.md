@@ -5,6 +5,7 @@
 ## 來源摘要
 
 - [[sheldon-ch6-claim-drafting]] — Sheldon 教科書第六章：Claim Drafting 完整指南（形式、類型、策略、缺陷）
+- [[sheldon-ch7-specification-drafting]] — Sheldon 教科書第七章：說明書撰寫（§112 三大要求 + 各節實務撰寫指南）
 
 ## 概念
 
@@ -17,6 +18,11 @@
 - [[antecedent-basis]] — 前提基礎的三個層面（請求項內、說明書、圖式）
 - [[jepson-claim]] — Jepson 式請求項的形式與風險（不建議使用）
 - [[markush-group]] — Markush 群組的形式與化學領域應用
+- [[written-description]] — 書面描述要求：申請人必須「擁有」所請求發明的法律標準
+- [[enablement]] — 可實施性要求：說明書使 PHOSITA 能製造與使用發明的 9 條指引
+- [[best-mode]] — 最佳模式要求：揭露申請日當時發明人主觀最佳實施方式的 14 條指引
+- [[utility]] — 實用性要求（§101）：specific、substantial、credible 三個面向
+- [[specification-structure]] — 說明書各節結構與撰寫要點（Title 到 Abstract）
 
 ## 實體
 

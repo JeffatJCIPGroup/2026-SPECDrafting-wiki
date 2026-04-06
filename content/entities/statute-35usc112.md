@@ -26,8 +26,8 @@ tags: [法規, 112, claim-drafting, specification]
 - **Best Mode**：說明書必須揭露發明人已知的最佳實施方式
 
 ## 來源參照
-- [[sheldon-ch6-claim-drafting]]：§6.2.1 詳述 §112 對請求項撰寫的影響
-- [[sheldon-ch7-specification-drafting]]：（待 ingest）將涵蓋 §112 對說明書的要求
+- [[sheldon-ch6-claim-drafting]]：§6.2.1 詳述 §112 對請求項撰寫的影響（明確性、means-plus-function、不可同時涵蓋 apparatus 與 method）
+- [[sheldon-ch7-specification-drafting]]：§7.1–§7.4 詳述 §112 三大說明書要求的法律標準（written description、enablement、best mode）與 14+ 條操作指引
 
 ## 相關實體
 - [[statute-35usc101]]：§101 法定類別與實用性要求（待建立）

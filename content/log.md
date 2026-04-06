@@ -11,6 +11,14 @@
 - **新增頁面**：index.md, log.md
 - **備註**：Wiki 知識庫正式啟動，準備開始 ingest 原始來源
 
+## [2026-04-07] ingest | Sheldon CH7 — Specification Drafting
+
+- **來源**：`RAW/Sheldon/Sheldon-CH07_Specification Drafting.docx`
+- **作者**：Jeffrey G. Sheldon, *How to Write a Patent Application*, Chapter 7 (2006)
+- **新增頁面**：[[sheldon-ch7-specification-drafting]], [[written-description]], [[enablement]], [[best-mode]], [[utility]], [[specification-structure]]
+- **更新頁面**：[[statute-35usc112]]（新增 CH7 來源參照）, index.md
+- **備註**：CH7 涵蓋 §112 三大說明書要求（written description、enablement、best mode）及 utility 要求（§101），並提供說明書各節（Title → Abstract）的完整實務撰寫指南。關鍵洞見：說明書是「銷售文件」，避免使用 "the invention"，以 Theme 方法組織全文。
+
 ## [2026-04-06] ingest | Sheldon CH6 — Claim Drafting
 
 - **來源**：`RAW/Sheldon/Sheldon-CH6_Claim Drafting.docx`
