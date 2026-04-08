@@ -19,6 +19,14 @@
 - **更新頁面**：[[statute-35usc112]]（新增 CH7 來源參照）, index.md
 - **備註**：CH7 涵蓋 §112 三大說明書要求（written description、enablement、best mode）及 utility 要求（§101），並提供說明書各節（Title → Abstract）的完整實務撰寫指南。關鍵洞見：說明書是「銷售文件」，避免使用 "the invention"，以 Theme 方法組織全文。
 
+## [2026-04-07] ingest | Landis（Faber）CH1 — Statutory Provisions and Some Basic Principles
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap01-Statutory Provisions-Some Basic Principles.pdf`
+- **作者**：Robert C. Faber（*Landis on Mechanics of Patent Claim Drafting*, 8th ed., 2023）
+- **新增頁面**：[[landis-ch01-statutory-provisions]], [[claim-construction]], [[disavowal]], [[statutory-classes]]
+- **更新頁面**：index.md
+- **備註**：本章（48 頁掃描版 PDF）涵蓋 §1:1–§1:5。核心主題：(1) 請求項的雙重法定要求——point out & distinctly claim；(2) Omnibus Claim 在美國絕對禁止；(3) §101 四大法定類別與 *Alice* 適格性框架；(4) *Phillips* en banc 確立的 intrinsic-first 請求項解釋標準；(5) Disavowal——說明書中的限縮性語言（"The present invention requires..."）與審查歷史中的論述均可縮限請求項範圍，門檻為「明確且無歧義」。關鍵實務警示：優選實施例不自動限縮請求項；"The present invention is..." 語言危險。
+
 ## [2026-04-07] ingest | Landis（Faber）CH2 — Claim Forms and Formats in General
 
 - **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap02-Claim Forms and Formats in General.pdf`

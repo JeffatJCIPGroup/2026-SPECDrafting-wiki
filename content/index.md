@@ -6,6 +6,7 @@
 
 - [[sheldon-ch6-claim-drafting]] — Sheldon 教科書第六章：Claim Drafting 完整指南（形式、類型、策略、缺陷）
 - [[sheldon-ch7-specification-drafting]] — Sheldon 教科書第七章：說明書撰寫（§112 三大要求 + 各節實務撰寫指南）
+- [[landis-ch01-statutory-provisions]] — Landis（Faber）第一章：法定規定與基本原則（Phillips 標準、Disavowal、§101 類別）
 - [[landis-ch02-claim-forms-formats]] — Landis（Faber）第二章：請求項形式與語言規則（大量 Federal Circuit 判例分析）
 
 ## 概念
@@ -25,6 +26,9 @@
 - [[utility]] — 實用性要求（§101）：specific、substantial、credible 三個面向
 - [[specification-structure]] — 說明書各節結構與撰寫要點（Title 到 Abstract）
 - [[whereby-wherein-clauses]] — Whereby/Wherein/Thereby 子句的法律效果與正確用法
+- [[claim-construction]] — 請求項解釋的 Phillips 標準：內在/外在證據層次與 BRI vs. 法院標準
+- [[disavowal]] — 說明書與審查歷史中的範圍放棄：門檻、來源與撰寫規避策略
+- [[statutory-classes]] — 35 U.S.C. §101 四大法定類別：軟體/商業方法適格性與混合類別風險
 
 ## 實體
 
