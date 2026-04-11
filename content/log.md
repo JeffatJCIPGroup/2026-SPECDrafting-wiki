@@ -19,6 +19,14 @@
 - **更新頁面**：[[statute-35usc112]]（新增 CH7 來源參照）, index.md
 - **備註**：CH7 涵蓋 §112 三大說明書要求（written description、enablement、best mode）及 utility 要求（§101），並提供說明書各節（Title → Abstract）的完整實務撰寫指南。關鍵洞見：說明書是「銷售文件」，避免使用 "the invention"，以 Theme 方法組織全文。
 
+## [2026-04-11] ingest | Landis（Faber）CH3 — Apparatus or Machine Claims
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap03-Apparatus or Machine Claims.pdf`（118 頁掃描版）及 `.md` 文字版
+- **作者**：Robert C. Faber（*Landis on Mechanics of Patent Claim Drafting*, 8th ed., 2023）
+- **新增頁面**：[[landis-ch03-apparatus-machine-claims]], [[apparatus-claims]]
+- **更新頁面**：[[means-plus-function]]（source_count 1→2，全面增補 Williamson nonce word、軟體MPF、DOE vs MPF、single means、means at novelty）、index.md
+- **備註**：本章（118頁）以 Shaker 裝置為貫穿範例，涵蓋 §3:1–§3:16。核心洞見：(1) 裝置請求項描述結構而非行為（"configured to" ✓，使用者動作 ✗）；(2) 所有元素必須「綁在一起」否則 aggregation 核駁；(3) "means for" 觸發 §112(f) 自動限縮；(4) *Williamson*（2015）nonce words 擴大 MPF 觸發範圍；(5) 軟體 MPF 必須在說明書揭露演算法。Faber 明確建議：**以具名元素 + "configured to" 替代 "means for"**，以避免 §112(f) 縮限而保留廣度。
+
 ## [2026-04-07] ingest | Landis（Faber）CH1 — Statutory Provisions and Some Basic Principles
 
 - **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap01-Statutory Provisions-Some Basic Principles.pdf`

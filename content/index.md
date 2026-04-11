@@ -8,6 +8,7 @@
 - [[sheldon-ch7-specification-drafting]] — Sheldon 教科書第七章：說明書撰寫（§112 三大要求 + 各節實務撰寫指南）
 - [[landis-ch01-statutory-provisions]] — Landis（Faber）第一章：法定規定與基本原則（Phillips 標準、Disavowal、§101 類別）
 - [[landis-ch02-claim-forms-formats]] — Landis（Faber）第二章：請求項形式與語言規則（大量 Federal Circuit 判例分析）
+- [[landis-ch03-apparatus-machine-claims]] — Landis（Faber）第三章：裝置/機器請求項（Shaker 範例、aggregation、MPF、nonce words）
 
 ## 概念
 
@@ -29,6 +30,7 @@
 - [[claim-construction]] — 請求項解釋的 Phillips 標準：內在/外在證據層次與 BRI vs. 法院標準
 - [[disavowal]] — 說明書與審查歷史中的範圍放棄：門檻、來源與撰寫規避策略
 - [[statutory-classes]] — 35 U.S.C. §101 四大法定類別：軟體/商業方法適格性與混合類別風險
+- [[apparatus-claims]] — 裝置請求項核心原則：結構vs行為、元素命名、aggregation、functional language
 
 ## 實體
 
