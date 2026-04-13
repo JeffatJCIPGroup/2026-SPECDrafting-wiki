@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-11] ingest | MPEP §2173 — Claims Must Particularly Point Out and Distinctly Claim the Invention
+
+- **來源**：`RAW/MPEP 2173 Claims Must Particularly Point Out and Distinctly Claim the Invention.docx`
+- **作者**：USPTO（Manual of Patent Examining Procedure, R-01.2024）
+- **新增頁面**：[[mpep-2173-indefiniteness]], [[indefiniteness]]
+- **更新頁面**：[[antecedent-basis]]（source_count 2→3，新增 §2173.05(e) 繼承性前提基礎、例外規則、審查員義務）、[[markush-group]]（source_count 1→2，新增 §2173.05(h) 必須用 "consisting of"、"comprising" 版本不確定、"optionally" 可接受、雙重包含規則）、index.md
+- **備註**：本文件（§2173–§2173.06）涵蓋 §112(b) 不確定性的完整 USPTO 審查指引，共 22 種具體失敗模式。核心洞見：(1) *Nautilus*（2014）確立「合理確定性」標準，取代更寬鬆的「不可理解」標準；(2) 廣度不等於不確定性；(3) 裝置+方法混合請求項自動不確定（*IPXL*）；(4) Markush 群組必須用 "consisting of"；(5) 否定限制需要說明書正面基礎；(6) Compact prosecution 要求 §112(b) 和 §102/103 核駁同時提出。
+
 ## [2026-04-06] create | Wiki 初始化
 
 - **操作**：建立 Wiki 架構、CLAUDE.md Schema、index.md、log.md
