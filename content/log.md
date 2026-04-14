@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-15] ingest | Patent Profanity（專利髒話）— 兩份來源
+
+- **來源 1**：`RAW/Patent Profanity 2024.docx`（Aurora Patents, Kristen Hansen, 2024/7/2）
+- **來源 2**：`RAW/20260415-patent profanity整理成中英對照.docx`（使用者整理，2026-04-15）
+- **新增頁面**：[[patent-profanity-2024-aurora]], [[patent-profanity-2026-bilingual-guide]], [[patent-profanity]]
+- **更新頁面**：index.md, log.md
+- **備註**：Patent profanity 完整體系建立。核心洞見：(1) 不是禁字令，而是風險管理工具；(2) 兩條法律傷害路徑——prosecution history disclaimer + claim construction；(3) 最危險的三句話："the present invention is/requires/includes"；(4) 關鍵判例：Inpro II（"very important feature"）、Atofina（"solely"）、Pharmacia（"critical" → estoppel，阻礙均等論）；(5) 替代語策略："in some embodiments"、"may/can"、"for example"；(6) AI 起草的清洗需求。
+
 ## [2026-04-15] ingest | Landis CH05 — Other Types of Claims
 
 - **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap05-Other Type Claims.md`（+ `Chap05-Other Types of Claims Contents.docx`，僅目錄大綱）

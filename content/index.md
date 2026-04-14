@@ -12,6 +12,8 @@
 - [[mpep-2173-indefiniteness]] — MPEP §2173：USPTO 不確定性審查指南（§112(b)、22 種失敗模式、Nautilus 標準、compact prosecution）
 - [[landis-ch04-method-process-claims]] — Landis（Faber）第四章：方法請求項（步驟語言、順序規則、裝置限制、Ochiai 原則）
 - [[landis-ch05-other-types-of-claims]] — Landis（Faber）第五章：其他請求項類型（製造物、PBP、設計、植物、再頒、接續申請案）
+- [[patent-profanity-2024-aurora]] — Aurora Patents（2024）：三級分類詞彙表、四個核心判例教訓
+- [[patent-profanity-2026-bilingual-guide]] — 中英對照實務指南（2026-04-15）：高風險詞彙表、近年 CAFC 判例、§101/§112 審查環境更新
 
 ## 概念
 
@@ -39,6 +41,7 @@
 - [[product-by-process]] — 製程界定產品（PBP）請求項：可專利性看產品、侵權看製程、嵌套 PBP 規則
 - [[design-claims]] — 設計請求項：單一請求項格式、"as shown"、實線/虛線規範、tout ensemble
 - [[continuing-applications]] — 接續申請案：Divisional / Continuation / CIP 差異、有效申請日計算、Provisional 策略
+- [[patent-profanity]] — 專利髒話：高風險用語分級清單、法律機制（disavowal/claim construction）、替代語策略、判例速查
 
 ## 實體
 
