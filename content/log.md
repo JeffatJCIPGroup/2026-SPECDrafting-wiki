@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-15] ingest | Landis CH06 — Composition of Matter Claims / Chemical Cases
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap06-Composition of Matter Claims-Chemical Cases.md`（+ `Chap06-Composition of Matter Contents.docx`，僅目錄大綱）
+- **作者**：Robert C. Faber（修訂自 Landis）
+- **新增頁面**：[[landis-ch06-composition-of-matter]], [[composition-of-matter-claims]], [[generic-species-claims]]
+- **更新頁面**：[[jepson-claim]]（source_count 1→2，新增 Jepson 在生技 §112(a) 緩解的現代用途、"characterized in that" 等效語、Rule 75(e) 依據）、[[markush-group]]（source_count 2→3，新增四要件、*Amgen v. Amneal* 2020 開放式例外規則、Markush 在機械/製程的擴展適用）、index.md, log.md
+- **備註**：§6.1–§6.11 完整涵蓋。核心洞見：(1) 組合物以成分+比例界定，`comprising` vs `consisting of` 決定開放/封閉；(2) *Amgen v. Amneal*（2020）：請求項層級 comprising + Markush 層級 consisting of = 整體請求項仍開放；(3) 新用途不能包裝為組合物請求項（Thuau 原則），須用方法形式；(4) Jepson 在 *Juno*/*Amgen* 後成為生技功能性上位概念的 §112(a) 緩解工具；(5) *Amgen v. Sanofi*（2023 最高法院）確立功能性上位概念必須有足夠物種揭露的新基準；(6) 「治療有效量」在製藥請求項中可接受，但需充分說明書支持（*Acorda*, 2019）。
+
 ## [2026-04-15] ingest | Patent Profanity（專利髒話）— 兩份來源
 
 - **來源 1**：`RAW/Patent Profanity 2024.docx`（Aurora Patents, Kristen Hansen, 2024/7/2）
