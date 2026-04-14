@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-15] ingest | Landis CH05 — Other Types of Claims
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap05-Other Type Claims.md`（+ `Chap05-Other Types of Claims Contents.docx`，僅目錄大綱）
+- **作者**：Robert C. Faber（修訂自 Landis）
+- **新增頁面**：[[landis-ch05-other-types-of-claims]], [[product-by-process]], [[design-claims]], [[continuing-applications]]
+- **更新頁面**：index.md, log.md
+- **備註**：§5.1–§5.7 完整涵蓋。核心洞見：(1) PBP 可專利性看產品（非製程），侵權看製程（Atlantic Thermoplastics）；(2) 設計請求項只有一項，格式固定為 "as shown"，禁用 "substantially"，圖式即請求項；(3) Divisional 不可被 double patenting 核駁（分割案的關鍵優勢）；(4) CIP 有效申請日逐項計算（依賴新事項則取 CIP 日）；(5) Provisional 建議仍加請求項（支持外國優先權、確認揭露完整性）。
+
 ## [2026-04-15] ingest | Landis CH04 — Method or Process Claims
 
 - **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap04-Method or Process Claims.md`（+ `Chap04 Method or Process Claims Contents.docx`，僅目錄大綱）
