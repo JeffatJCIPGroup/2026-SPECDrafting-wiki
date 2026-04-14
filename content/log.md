@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-15] ingest | Landis CH04 — Method or Process Claims
+
+- **來源**：`RAW/2024-Mechanics of Claim Drafting/Chap04-Method or Process Claims.md`（+ `Chap04 Method or Process Claims Contents.docx`，僅目錄大綱）
+- **作者**：Robert C. Faber（修訂自 Landis）
+- **新增頁面**：[[landis-ch04-method-process-claims]], [[method-claims]]
+- **更新頁面**：index.md, log.md
+- **備註**：§4.1–§4.8 完整涵蓋。核心洞見：(1) 方法描述 DOES（做什麼），裝置描述 IS（是什麼）；(2) 步驟用動名詞 "-ing"，需要實際執行不只是能力；(3) 步驟順序非必要時勿明確表述；(4) 避免在方法請求項中加入裝置限制（能免則免），化學/組成物限制則無問題；(5) 方法+裝置混合請求項 = indefinite（IPXL）；(6) Tarczy-Hornoch：方法不因為是裝置固有功能而被拒；(7) Ochiai：使用新穎起始物的方法可獲專利（整體非顯而易見性測試）。
+
 ## [2026-04-11] ingest | MPEP §2173 — Claims Must Particularly Point Out and Distinctly Claim the Invention
 
 - **來源**：`RAW/MPEP 2173 Claims Must Particularly Point Out and Distinctly Claim the Invention.docx`

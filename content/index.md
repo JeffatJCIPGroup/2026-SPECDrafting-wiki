@@ -10,6 +10,7 @@
 - [[landis-ch02-claim-forms-formats]] — Landis（Faber）第二章：請求項形式與語言規則（大量 Federal Circuit 判例分析）
 - [[landis-ch03-apparatus-machine-claims]] — Landis（Faber）第三章：裝置/機器請求項（Shaker 範例、aggregation、MPF、nonce words）
 - [[mpep-2173-indefiniteness]] — MPEP §2173：USPTO 不確定性審查指南（§112(b)、22 種失敗模式、Nautilus 標準、compact prosecution）
+- [[landis-ch04-method-process-claims]] — Landis（Faber）第四章：方法請求項（步驟語言、順序規則、裝置限制、Ochiai 原則）
 
 ## 概念
 
@@ -33,6 +34,7 @@
 - [[statutory-classes]] — 35 U.S.C. §101 四大法定類別：軟體/商業方法適格性與混合類別風險
 - [[apparatus-claims]] — 裝置請求項核心原則：結構vs行為、元素命名、aggregation、functional language
 - [[indefiniteness]] — §112(b) 不確定性：Nautilus 標準、22 種失敗模式、程度語言、功能限制、antecedent basis
+- [[method-claims]] — 方法請求項：動名詞步驟、順序規則、step-plus-function、裝置限制的推斷式引入
 
 ## 實體
 
